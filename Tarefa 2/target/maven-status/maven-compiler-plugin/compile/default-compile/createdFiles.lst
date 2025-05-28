@@ -1,0 +1,6 @@
+com\exemplo\tabuleiroxadrez\Main.class
+com\exemplo\tabuleiroxadrez\TabuleiroService.class
+com\exemplo\tabuleiroxadrez\TabuleiroRepository.class
+com\exemplo\tabuleiroxadrez\TabuleiroController.class
+com\exemplo\tabuleiroxadrez\MovimentoInvalidoException.class
+com\exemplo\tabuleiroxadrez\App.class
